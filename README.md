@@ -196,7 +196,7 @@ docker compose down -v
 *(Dán các ảnh chụp màn hình minh chứng vào thư mục `screenshots/` và liên kết tại đây)*
 
 #### Minh chứng 1: Docker Image được build thành công (`docker images`)
-![Docker Images](screenshots/01-docker-images.png)
+![Docker Images](screenshots/docker images.png)
 
 #### Minh chứng 2: Các container đang hoạt động khỏe mạnh (`docker compose ps`)
 ![Docker Compose PS](screenshots/02-docker-compose-ps.png)
